@@ -1,24 +1,18 @@
-# README
+# GHOSTLY API
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+The Ghostly API is an open-source API for tracking ghost sightings and haunted_locations
 
-Things you may want to cover:
+# Why do we care about this?
 
+There is currently no easy to access database of paranormal sightings or creatures
+
+# Build Status
+check in later!
+
+#  Specs
 * Ruby version
+  * 2.6.1
 
-* System dependencies
+*  Rails version
+   *  5.2.3
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
